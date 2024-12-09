@@ -1,4 +1,5 @@
-HEAD
+#Anjum Mulla 
+Email:anjummulla48@gmail.com
 # Laravel 10 Boilerplate
 
 The goal of this project is to serve as a boilerplate for Laravel 10
