@@ -1,3 +1,4 @@
+HEAD
 # Laravel 10 Boilerplate
 
 The goal of this project is to serve as a boilerplate for Laravel 10
@@ -46,3 +47,6 @@ docker-compose exec -u root app /bin/sh
 # COMPOSER_MEMORY_LIMIT=-1 app composer require awesome/package_etc
 # ymmv w/ COMPOSER_MEMORY_LIMIT maybe try without
 ```
+=======
+# Anjum_Mulla_laravel
+6965ac623fd80c7df77492d3a4741b04f84db518
